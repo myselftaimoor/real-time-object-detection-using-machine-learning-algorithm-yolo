@@ -15,16 +15,6 @@ The **Real-Time Object Detection System** is built using **YOLO (You Only Look O
 
 The project addresses key challenges in **real-time detection**, **scalability**, and **deployment flexibility**, making it suitable for various industries.
 
-## Output Samples
-### Object Detection
-![Object Detection](./images/object_detection_example.png)
-
-### Text Detection (OCR)
-![Text Detection](./images/text_detection_example.png)
-
-### Use Case: Vehicle Number Plate Recognition
-![Number Plate Recognition](./images/number_plate_example.png)
-
 ## Getting Started
 This section provides instructions on setting up the environment and running the project.
 
